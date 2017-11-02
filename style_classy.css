@@ -1,0 +1,25 @@
+body {
+    background-color: lightsteelblue;
+}
+
+.extreme {
+    font-size: 200%;
+    font-family: "Comic Sans MS", serif;
+}
+
+.navzone {
+    font-size: 90%;
+    background-color: navy;
+    border: 5px solid aqua;
+}
+
+.content {
+    font-size: 110%;
+    background-color: grey;
+    border: 2px solid black;
+}
+
+#tehlulz {
+    color: orangered;
+    list-style-type: square;
+}
