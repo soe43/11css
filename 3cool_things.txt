@@ -1,0 +1,6 @@
+Michael -
+	Added .gif to background of his webpage
+	background-image: url(<URL>)	 
+
+To whomever had the blinking colors-
+   	Make font sizes change
