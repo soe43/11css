@@ -1,0 +1,30 @@
+h1 {
+    color: #FF009F;
+    text-align: center;
+}
+
+body {
+    background: lightsteelblue;
+}
+
+ul { 
+    list-style-type: square;
+}
+
+p {
+    text-align: center;
+    font-size: 125%;
+    font-family: "Comic Sans MS";
+}
+
+a:link {
+    color: orangered;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    background-color: aqua;
+}
