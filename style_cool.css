@@ -1,0 +1,41 @@
+.solidtext {
+    font-size: 150%;
+    font: "Comic Sans MS";
+    border: 5px solid pink;
+}
+
+body {
+    background-color: white;
+    background-image: url("https://fiu-assets-2-syitaetz61hl2sa.stackpathdns.com/static/use-media-items/15/14246/full-2048x768/56fc6e1d/Yahoo_Logo.png?resolution=0");
+    background-size: 95% 95%;
+}
+
+#head1 {
+    background-color: aqua;
+}
+
+a:hover {
+    cursor: wait;
+}
+
+#centertext {
+    text-align: center;
+    vertical-align: middle;
+    font: 40px "Comic Sans MS";
+    animation-name: changeFontSize;
+    animation-duration: 400ms;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@keyframes changeFontSize {
+    from {
+	font-size 100%;
+    }
+    to {
+	font-size 80%;
+    }
+    to {
+	font-size 120%;
+    }
+}
